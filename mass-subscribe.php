@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: LM metadata Owners
-Plugin URI: http://www.laylamandella.com
+Plugin Name: LM Mass Subscribe to Category
+Plugin URI: https://github.com/layla37/mass-subscribe
 Description: A plugin to subscribe all owners to the marketing forum.
 Version: 1.0
 Author: Layla Mandella and Mike Schachter
-Author URI: http://www.laylamandella.com
+Author URI: https://github.com/layla37/mass-subscribe
 License: GPL2
 */
 
