@@ -53,7 +53,6 @@ function subscribe_users($category_name, $user_role)
 		{
 			$user_subs[] = $category_name;
 			$category_string = implode($user_subs, ',');
-			error_log("adding marketing forum to user $u->user_email: $category_string");
 		
 			//store the user category subscriptions
 			update_user_meta($uid, 'catsub_categories', $category_string);
